@@ -1,8 +1,8 @@
 {
   "name": "grunt-jsmin-sourcemap",
   "description": "Grunt task for JSMin and sourcemap",
-  "version": "1.7.1",
-  "homepage": "https://github.com/twolfson/grunt-jsmin-sourcemap",
+  "version": "1.7.2",
+  "homepage": "https://github.com/alademann/grunt-jsmin-sourcemap",
   "author": {
     "name": "Todd Wolfson",
     "email": "todd@twolfson.com",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/twolfson/grunt-jsmin-sourcemap.git"
+    "url": "git://github.com/alademann/grunt-jsmin-sourcemap.git"
   },
   "bugs": {
-    "url": "https://github.com/twolfson/grunt-jsmin-sourcemap/issues"
+    "url": "https://github.com/alademann/grunt-jsmin-sourcemap/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/twolfson/grunt-jsmin-sourcemap/blob/master/LICENSE-MIT"
+      "url": "https://github.com/alademann/grunt-jsmin-sourcemap/blob/master/LICENSE-MIT"
     }
   ],
   "main": "grunt.js",
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "jsmin-sourcemap": "~0.14.0",
-    "grunt-retro": "~0.2.1"
+    "grunt-retro": "~0.6.4"
   },
   "_devDependencies": {
     "grunt": "~0.3.12"
