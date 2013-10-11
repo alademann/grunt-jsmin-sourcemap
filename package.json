@@ -1,12 +1,10 @@
 {
-  "name": "grunt-jsmin-sourcemap",
+  "name": "grunt-jsmin-sourcemap-updated-retro",
   "description": "Grunt task for JSMin and sourcemap",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "homepage": "https://github.com/alademann/grunt-jsmin-sourcemap",
   "author": {
-    "name": "Todd Wolfson",
-    "email": "todd@twolfson.com",
-    "url": "http://twolfson.com/"
+    "name": "Aaron Lademann"
   },
   "repository": {
     "type": "git",
